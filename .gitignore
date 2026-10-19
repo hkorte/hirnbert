@@ -1,0 +1,4 @@
+node_modules/
+*.yaml
+.hirnbert-passwort
+__pycache__/
