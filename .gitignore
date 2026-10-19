@@ -2,3 +2,5 @@ node_modules/
 *.yaml
 .hirnbert-passwort
 __pycache__/
+CLAUDE.local.md
+.idea/
